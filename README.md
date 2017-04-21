@@ -1,4 +1,4 @@
-# Revisiting the Variable Projection Method (CVPR 2017)
+# Revisiting VarPro (CVPR 2017)
 
 ## Abstract
 Variable Projection (VarPro) is a framework to solve optimization
