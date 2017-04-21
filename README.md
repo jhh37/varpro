@@ -26,6 +26,6 @@ paper intends to address these unsolved puzzles.
 The main paper and the supplementary document files are included in the
 ''Documents'' folder.
 
-## Acknowledgment
+## Acknowledgement
 - The work was supported by Microsoft and Toshiba Research Europe.
 - We thank Roberto Cipolla for additional funding support.
