@@ -28,6 +28,7 @@ The main paper and the supplementary document files are included in the
 
 ## Video
 URL: https://youtu.be/f5zy-suk5EI
+
 In the above video, we show the evolution of 3D structure and affine
 camera directions at every successful iteration of the Variable
 Projection and Joint optimization-based methods on two datasets. It
