@@ -22,10 +22,21 @@ paper intends to address these unsolved puzzles.
 - Christopher Zach (christopher.m.zach@gmail.com)
 - Andrew Fitzgibbon (awf@microsoft.com)
 
+## Acknowledgement
+- The work was supported by Microsoft and Toshiba Research Europe.
+- We thank Roberto Cipolla for additional funding support.
+- The conference travel was supported by Microsoft, Christ's College and
+Cambridge Philosophical Society.
+
 ## Paper
 The main paper and the supplementary document files are included in the
 ''Documents'' folder.
 
-## Acknowledgement
-- The work was supported by Microsoft and Toshiba Research Europe.
-- We thank Roberto Cipolla for additional funding support.
+## Video
+URL: https://youtu.be/f5zy-suk5EI
+In the above video, we show the evolution of 3D structure and affine
+camera directions at every successful iteration of the Variable
+Projection and Joint optimization-based methods on two datasets. It
+shows that a small variation between the two methods leads to a dramatic
+performance difference. Also, when Joint+EPI fails, we observe many
+affine camera directions becoming collinear.
