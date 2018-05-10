@@ -18,13 +18,16 @@ medium-sized datasets has raised questions about its scalability. This
 paper intends to address these unsolved puzzles. 
 
 ## Contributors
-- Je Hyeong Hong (jhh37@outlook.com)
+- Je Hyeong Hong (jhh37@cantab.net)
 - Christopher Zach (christopher.m.zach@gmail.com)
 - Andrew Fitzgibbon (awf@microsoft.com)
 
 ## Paper
 The main paper and the supplementary document files are included in the
 ''Documents'' folder.
+
+## Code
+- The VarPro patch for Ceres Solver is available [here](http://github.com/jhh37/ceres-solver).
 
 ## Video
 URL: https://youtu.be/f5zy-suk5EI
